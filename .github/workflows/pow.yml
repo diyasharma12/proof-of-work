@@ -15,11 +15,11 @@ jobs:
 
       - name: Fetch PRs
         run: |
-          curl -s "https://api.github.com/search/issues?q=author:YOUR_USERNAME+org:calcom+type:pr&per_page=50" > prs.json
+          curl -s "https://api.github.com/search/issues?q=author:diyasharma12+org:calcom+type:pr&per_page=50" > prs.json
 
       - name: Generate Table
         run: |
-          echo "## 🚀 Proof of Work" > README.md
+          echo "##  Proof of Work" > README.md
           echo "" >> README.md
           echo "My open-source contributions to public organizations." >> README.md
           echo "" >> README.md
