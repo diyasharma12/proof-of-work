@@ -25,8 +25,10 @@ def should_include_org(org_name, allowed_orgs):
 
 print("Script started...")
 g = Github(os.getenv("GITHUB_TOKEN"))
-user = g.get_user()
-username = user.login
+username = os.getenv("GITHUB_ACTOR", "").strip()
+if not username:
+    # Local fallback when running outside GitHub Actions.
+    username = g.get_user().login
 allowed_orgs = load_organizations()
 
 print("Username:", username)
