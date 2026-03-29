@@ -1,4 +1,4 @@
-name: Update README with PRs
+name: Update README with Contributions
 
 on:
   schedule:
@@ -15,18 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Debug files
-        run: |
-          pwd
-          ls -la
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install PyGithub
+        run: pip install -r requirements.txt
 
       - name: Run script
         env:
@@ -38,5 +33,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "Update README" || echo "No changes"
+          git commit -m "Update README with latest contributions" || echo "No changes"
           git push
