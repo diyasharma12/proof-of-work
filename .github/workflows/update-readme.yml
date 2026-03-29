@@ -15,14 +15,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Debug files
+        run: |
+          pwd
+          ls -la
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip'
 
       - name: Install dependencies
-        run: pip install PyGithub python-dotenv
+        run: pip install PyGithub
 
       - name: Run script
         env:
@@ -34,5 +38,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
-          git diff --staged --quiet || git commit -m "Update README with latest PRs"
+          git commit -m "Update README" || echo "No changes"
           git push
