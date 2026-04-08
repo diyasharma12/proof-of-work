@@ -17,7 +17,7 @@ My open-source contributions to public organizations.
 | scrum_helper | Added AGENTS.md | Open | 2026-04-01 | - | [PR #513](https://github.com/fossasia/scrum_helper/pull/513) |
 | scrum_helper | fix prevent generate button text overflow | Closed | 2026-03-22 | - | [PR #478](https://github.com/fossasia/scrum_helper/pull/478) |
 | scrum_helper | Fix: Correct project name in documentation | Closed | 2026-03-21 | - | [PR #473](https://github.com/fossasia/scrum_helper/pull/473) |
-| scrum_helper | Add storage for scrum report configuration | Open | 2026-03-11 | - | [PR #446](https://github.com/fossasia/scrum_helper/pull/446) |
+| scrum_helper | Add storage for scrum report configuration | Closed | 2026-03-11 | - | [PR #446](https://github.com/fossasia/scrum_helper/pull/446) |
 | scrum_helper | Fix/UI error overflow | Closed | 2026-03-08 | - | [PR #438](https://github.com/fossasia/scrum_helper/pull/438) |
 | scrum_helper | Added gitee support for generating scrum reports | Closed | 2026-03-08 | - | [PR #436](https://github.com/fossasia/scrum_helper/pull/436) |
 | eventyay | Fix/navigation flicker | Closed | 2026-02-03 | - | [PR #2233](https://github.com/fossasia/eventyay/pull/2233) |
