@@ -2,18 +2,19 @@
 
 My open-source contributions to public organizations.
 
-**Total PRs**: 18 | **Merged PRs**: 1 | **Total Issues**: 3 | **Closed Issues**: 2
+**Total PRs**: 19 | **Merged PRs**: 1 | **Total Issues**: 4 | **Closed Issues**: 2
 
 
 ## Organization: fossasia
 
-- PRs: 18
-- Issues: 3
+- PRs: 19
+- Issues: 4
 
 ### Pull Requests
 
 | Repository | PR Title | Status | Created At | Merged At | Link |
 |------------|----------|--------|------------|-----------|------|
+| scrum_helper | Fix: tooltip not disappearing after clicking Copy button | Open | 2026-04-17 | - | [PR #569](https://github.com/fossasia/scrum_helper/pull/569) |
 | scrum_helper | Replaced unsafe innerHTML with safe DOM APIs in popup.js | Open | 2026-04-08 | - | [PR #526](https://github.com/fossasia/scrum_helper/pull/526) |
 | scrum_helper | Add storage for scrum report configuration | Open | 2026-04-08 | - | [PR #525](https://github.com/fossasia/scrum_helper/pull/525) |
 | scrum_helper | Added AGENTS.md | Open | 2026-04-01 | - | [PR #513](https://github.com/fossasia/scrum_helper/pull/513) |
@@ -37,6 +38,7 @@ My open-source contributions to public organizations.
 
 | Repository | Issue Title | Status | Created At | Closed At | Link |
 |------------|-------------|--------|------------|-----------|------|
+| scrum_helper | [Enhancement]: Tooltip does not disappear after clicking copy button | Open | 2026-04-17 | - | [Issue #568](https://github.com/fossasia/scrum_helper/issues/568) |
 | scrum_helper | [Enhancement]: UI bug, "Generating..." text overflows button on click | Closed | 2026-03-22 | 2026-03-31 | [Issue #477](https://github.com/fossasia/scrum_helper/issues/477) |
 | scrum_helper | [Enhancement]: Error message overlaps footer in popup UI | Open | 2026-03-08 | - | [Issue #437](https://github.com/fossasia/scrum_helper/issues/437) |
 | scrum_helper | [Enhancement]: Gray out section labels and text when extension is disabled | Closed | 2026-01-03 | 2026-02-26 | [Issue #287](https://github.com/fossasia/scrum_helper/issues/287) |
