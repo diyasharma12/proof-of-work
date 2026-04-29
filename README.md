@@ -2,12 +2,12 @@
 
 My open-source contributions to public organizations.
 
-**Total PRs**: 17 | **Merged PRs**: 2 | **Total Issues**: 4 | **Closed Issues**: 2
+**Total PRs**: 19 | **Merged PRs**: 2 | **Total Issues**: 4 | **Closed Issues**: 2
 
 
 ## Organization: fossasia
 
-- PRs: 17
+- PRs: 19
 - Issues: 4
 
 ### Pull Requests
@@ -26,8 +26,10 @@ My open-source contributions to public organizations.
 | eventyay | Fix/navigation flicker | Closed | 2026-02-03 | - | [PR #2233](https://github.com/fossasia/eventyay/pull/2233) |
 | eventyay | Fix/dropdown outside click | Closed | 2026-01-26 | - | [PR #2124](https://github.com/fossasia/eventyay/pull/2124) |
 | eventyay | Chore/batch dependency updates | Closed | 2026-01-24 | - | [PR #2079](https://github.com/fossasia/eventyay/pull/2079) |
+| scrum_helper | feat: add configurable scrum report sections | Closed | 2026-01-23 | - | [PR #319](https://github.com/fossasia/scrum_helper/pull/319) |
 | eventyay | docs: remove deprecated repo links | Closed | 2026-01-21 | - | [PR #1993](https://github.com/fossasia/eventyay/pull/1993) |
 | eventyay | docs: remove references to deprecated repositories | Closed | 2026-01-21 | - | [PR #1992](https://github.com/fossasia/eventyay/pull/1992) |
+| eventyay | fix: add Jinja template for change password view | Closed | 2026-01-20 | - | [PR #1967](https://github.com/fossasia/eventyay/pull/1967) |
 | eventyay | fix: clean up and consolidate order form settings | Closed | 2026-01-15 | - | [PR #1839](https://github.com/fossasia/eventyay/pull/1839) |
 | scrum_helper | Enhance UI: gray out labels and sections when extension is disabled | Closed | 2026-01-03 | - | [PR #288](https://github.com/fossasia/scrum_helper/pull/288) |
 | scrum_helper | Fix/disable UI when extension of | Merged | 2026-01-03 | 2026-01-11 | [PR #286](https://github.com/fossasia/scrum_helper/pull/286) |
