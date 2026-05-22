@@ -14,8 +14,8 @@ My open-source contributions to public organizations.
 
 | Repository | PR Title | Status | Created At | Merged At | Link |
 |------------|----------|--------|------------|-----------|------|
-| scrum_helper | Fix: tooltip not disappearing after clicking Copy button | Open | 2026-04-17 | - | [PR #569](https://github.com/fossasia/scrum_helper/pull/569) |
-| scrum_helper | Replaced unsafe innerHTML with safe DOM APIs in popup.js | Open | 2026-04-08 | - | [PR #526](https://github.com/fossasia/scrum_helper/pull/526) |
+| scrum_helper | Fix: tooltip not disappearing after clicking Copy button | Closed | 2026-04-17 | - | [PR #569](https://github.com/fossasia/scrum_helper/pull/569) |
+| scrum_helper | Replaced unsafe innerHTML with safe DOM APIs in popup.js | Closed | 2026-04-08 | - | [PR #526](https://github.com/fossasia/scrum_helper/pull/526) |
 | scrum_helper | Add storage for scrum report configuration | Open | 2026-04-08 | - | [PR #525](https://github.com/fossasia/scrum_helper/pull/525) |
 | scrum_helper | Added AGENTS.md | Merged | 2026-04-01 | 2026-04-18 | [PR #513](https://github.com/fossasia/scrum_helper/pull/513) |
 | scrum_helper | fix prevent generate button text overflow | Closed | 2026-03-22 | - | [PR #478](https://github.com/fossasia/scrum_helper/pull/478) |
