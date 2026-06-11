@@ -2,7 +2,7 @@
 
 My open-source contributions to public organizations.
 
-**Total PRs**: 19 | **Merged PRs**: 2 | **Total Issues**: 4 | **Closed Issues**: 3
+**Total PRs**: 19 | **Merged PRs**: 2 | **Total Issues**: 4 | **Closed Issues**: 4
 
 
 ## Organization: fossasia
@@ -40,6 +40,6 @@ My open-source contributions to public organizations.
 |------------|-------------|--------|------------|-----------|------|
 | scrum_helper | [Enhancement]: Tooltip does not disappear after clicking copy button | Closed | 2026-04-17 | 2026-06-06 | [Issue #568](https://github.com/fossasia/scrum_helper/issues/568) |
 | scrum_helper | [Enhancement]: UI bug, "Generating..." text overflows button on click | Closed | 2026-03-22 | 2026-03-31 | [Issue #477](https://github.com/fossasia/scrum_helper/issues/477) |
-| scrum_helper | [Enhancement]: Error message overlaps footer in popup UI | Open | 2026-03-08 | - | [Issue #437](https://github.com/fossasia/scrum_helper/issues/437) |
+| scrum_helper | [Enhancement]: Error message overlaps footer in popup UI | Closed | 2026-03-08 | 2026-06-11 | [Issue #437](https://github.com/fossasia/scrum_helper/issues/437) |
 | scrum_helper | [Enhancement]: Gray out section labels and text when extension is disabled | Closed | 2026-01-03 | 2026-02-26 | [Issue #287](https://github.com/fossasia/scrum_helper/issues/287) |
 
