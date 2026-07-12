@@ -2,7 +2,7 @@
 
 My open-source contributions to public organizations.
 
-Proof of work(daily updates, architecture, prototype etc.) from LFX mentorship: [repository-service-tuf-mentorship](https://github.com/diyasharma12/LFX-RSTUF) 
+## Proof of work(daily updates, architecture, prototype etc.) from LFX mentorship: [repository-service-tuf-mentorship](https://github.com/diyasharma12/LFX-RSTUF) 
 
 **Total PRs**: 19 | **Merged PRs**: 2 | **Total Issues**: 4 | **Closed Issues**: 4
 
