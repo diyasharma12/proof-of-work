@@ -1,9 +1,11 @@
 # 🚀 Proof of Work
 
 
+### 📖 LFX Mentorship
 
-#### Proof of work(daily updates, architecture, prototype etc.) from LFX mentorship: [repository-service-tuf-mentorship](https://github.com/diyasharma12/LFX-RSTUF) 
+Documentation, daily progress updates, architecture walkthroughs, prototypes, and implementation details for my LFX Mentorship project:
 
+**🔗 Repository:** https://github.com/diyasharma12/LFX-RSTUF
 
 ---
 
