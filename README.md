@@ -1,20 +1,11 @@
 # 🚀 Proof of Work
 
-
-### 📖 LFX Mentorship
-
-Documentation, daily progress updates, architecture walkthroughs, prototypes, and implementation details for my LFX Mentorship project:
-
-**🔗 Repository:** https://github.com/diyasharma12/LFX-RSTUF
-
----
-
 My open-source contributions to public organizations.
 
 **Total PRs**: 19 | **Merged PRs**: 2 | **Total Issues**: 4 | **Closed Issues**: 4
 
 
-## Organization: fossasia, repository-service-tuf
+## Organization: fossasia
 
 - PRs: 19
 - Issues: 4
