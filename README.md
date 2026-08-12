@@ -1,17 +1,8 @@
 # 🚀 Proof of Work
 
-### 📖 LFX Mentorship
-
-Documentation, daily progress updates, architecture walkthroughs, prototypes, and implementation details for my LFX Mentorship project.
-
-**🔗 Repository:** https://github.com/diyasharma12/LFX-RSTUF
-
----
-
-
 My open-source contributions to public organizations.
 
-**Total PRs**: 19 | **Merged PRs**: 2 | **Total Issues**: 4 | **Closed Issues**: 4
+**Total PRs**: 20 | **Merged PRs**: 2 | **Total Issues**: 4 | **Closed Issues**: 4
 
 
 ## Organization: fossasia
@@ -51,4 +42,16 @@ My open-source contributions to public organizations.
 | scrum_helper | [Enhancement]: UI bug, "Generating..." text overflows button on click | Closed | 2026-03-22 | 2026-03-31 | [Issue #477](https://github.com/fossasia/scrum_helper/issues/477) |
 | scrum_helper | [Enhancement]: Error message overlaps footer in popup UI | Closed | 2026-03-08 | 2026-06-11 | [Issue #437](https://github.com/fossasia/scrum_helper/issues/437) |
 | scrum_helper | [Enhancement]: Gray out section labels and text when extension is disabled | Closed | 2026-01-03 | 2026-02-26 | [Issue #287](https://github.com/fossasia/scrum_helper/issues/287) |
+
+
+## Organization: repository-service-tuf
+
+- PRs: 1
+- Issues: 0
+
+### Pull Requests
+
+| Repository | PR Title | Status | Created At | Merged At | Link |
+|------------|----------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | Frontend scaffold: Vite + React + TypeScript shell | Open | 2026-08-12 | - | [PR #2](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/2) |
 
