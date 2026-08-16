@@ -2,7 +2,7 @@
 
 My open-source contributions to public organizations.
 
-**Total PRs**: 20 | **Merged PRs**: 2 | **Total Issues**: 4 | **Closed Issues**: 4
+**Total PRs**: 20 | **Merged PRs**: 2 | **Total Issues**: 6 | **Closed Issues**: 4
 
 
 ## Organization: fossasia
@@ -47,11 +47,18 @@ My open-source contributions to public organizations.
 ## Organization: repository-service-tuf
 
 - PRs: 1
-- Issues: 0
+- Issues: 2
 
 ### Pull Requests
 
 | Repository | PR Title | Status | Created At | Merged At | Link |
 |------------|----------|--------|------------|-----------|------|
 | repository-service-tuf-webapp | Frontend scaffold: Vite + React + TypeScript shell | Open | 2026-08-12 | - | [PR #2](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/2) |
+
+### Issues
+
+| Repository | Issue Title | Status | Created At | Closed At | Link |
+|------------|-------------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | Frontend: Roles page (role table and delegation tree) | Open | 2026-08-15 | - | [Issue #14](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/14) |
+| repository-service-tuf-webapp | Frontend: project scaffold (Vite + React + TypeScript) | Open | 2026-08-15 | - | [Issue #13](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/13) |
 
