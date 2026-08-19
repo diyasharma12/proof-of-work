@@ -2,7 +2,7 @@
 
 My open-source contributions to public organizations.
 
-**Total PRs**: 24 | **Merged PRs**: 2 | **Total Issues**: 10 | **Closed Issues**: 5
+**Total PRs**: 25 | **Merged PRs**: 2 | **Total Issues**: 11 | **Closed Issues**: 5
 
 
 ## Organization: fossasia
@@ -46,13 +46,14 @@ My open-source contributions to public organizations.
 
 ## Organization: repository-service-tuf
 
-- PRs: 5
-- Issues: 6
+- PRs: 6
+- Issues: 7
 
 ### Pull Requests
 
 | Repository | PR Title | Status | Created At | Merged At | Link |
 |------------|----------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | feat(frontend): Roles page -- two-column layout, signers format, tree collapse/select | Open | 2026-08-19 | - | [PR #34](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/34) |
 | repository-service-tuf-webapp | feat(frontend): Status page -- keys table columns match Key / Signs / Held spec | Open | 2026-08-19 | - | [PR #32](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/32) |
 | repository-service-tuf-webapp | feat(frontend): global shell -- status pill, refresh, error banner, footer | Open | 2026-08-19 | - | [PR #30](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/30) |
 | repository-service-tuf-webapp | feat(frontend): Status page against GET /api/v1/status shape | Open | 2026-08-18 | - | [PR #26](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/26) |
@@ -63,6 +64,7 @@ My open-source contributions to public organizations.
 
 | Repository | Issue Title | Status | Created At | Closed At | Link |
 |------------|-------------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | Roles page: two-column layout, signers threshold format, delegation tree collapse/select | Open | 2026-08-19 | - | [Issue #33](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/33) |
 | repository-service-tuf-webapp | Status page: align keys table to Key / Signs / Held spec | Open | 2026-08-19 | - | [Issue #31](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/31) |
 | repository-service-tuf-webapp | Global shell: status pill, refresh, error banner, footer live in AppLayout | Closed | 2026-08-19 | 2026-08-19 | [Issue #29](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/29) |
 | repository-service-tuf-webapp | Global shell: status pill, refresh, error banner, footer live in AppLayout | Open | 2026-08-19 | - | [Issue #28](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/28) |
