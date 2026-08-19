@@ -2,7 +2,7 @@
 
 My open-source contributions to public organizations.
 
-**Total PRs**: 22 | **Merged PRs**: 2 | **Total Issues**: 6 | **Closed Issues**: 4
+**Total PRs**: 24 | **Merged PRs**: 2 | **Total Issues**: 10 | **Closed Issues**: 5
 
 
 ## Organization: fossasia
@@ -46,13 +46,15 @@ My open-source contributions to public organizations.
 
 ## Organization: repository-service-tuf
 
-- PRs: 3
-- Issues: 2
+- PRs: 5
+- Issues: 6
 
 ### Pull Requests
 
 | Repository | PR Title | Status | Created At | Merged At | Link |
 |------------|----------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | feat(frontend): Status page -- keys table columns match Key / Signs / Held spec | Open | 2026-08-19 | - | [PR #32](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/32) |
+| repository-service-tuf-webapp | feat(frontend): global shell -- status pill, refresh, error banner, footer | Open | 2026-08-19 | - | [PR #30](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/30) |
 | repository-service-tuf-webapp | feat(frontend): Status page against GET /api/v1/status shape | Open | 2026-08-18 | - | [PR #26](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/26) |
 | repository-service-tuf-webapp | feat(frontend): Roles page against GET /api/v1/overview shape | Open | 2026-08-18 | - | [PR #25](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/25) |
 | repository-service-tuf-webapp | Frontend scaffold: Vite + React + TypeScript shell | Open | 2026-08-12 | - | [PR #2](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/2) |
@@ -61,6 +63,10 @@ My open-source contributions to public organizations.
 
 | Repository | Issue Title | Status | Created At | Closed At | Link |
 |------------|-------------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | Status page: align keys table to Key / Signs / Held spec | Open | 2026-08-19 | - | [Issue #31](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/31) |
+| repository-service-tuf-webapp | Global shell: status pill, refresh, error banner, footer live in AppLayout | Closed | 2026-08-19 | 2026-08-19 | [Issue #29](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/29) |
+| repository-service-tuf-webapp | Global shell: status pill, refresh, error banner, footer live in AppLayout | Open | 2026-08-19 | - | [Issue #28](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/28) |
+| repository-service-tuf-webapp | Frontend: Status page | Open | 2026-08-19 | - | [Issue #27](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/27) |
 | repository-service-tuf-webapp | Frontend: Roles page (role table and delegation tree) | Open | 2026-08-15 | - | [Issue #14](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/14) |
 | repository-service-tuf-webapp | Frontend: project scaffold (Vite + React + TypeScript) | Open | 2026-08-15 | - | [Issue #13](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/13) |
 
