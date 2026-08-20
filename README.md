@@ -2,7 +2,7 @@
 
 My open-source contributions to public organizations.
 
-**Total PRs**: 26 | **Merged PRs**: 2 | **Total Issues**: 12 | **Closed Issues**: 5
+**Total PRs**: 29 | **Merged PRs**: 2 | **Total Issues**: 15 | **Closed Issues**: 5
 
 
 ## Organization: fossasia
@@ -46,13 +46,16 @@ My open-source contributions to public organizations.
 
 ## Organization: repository-service-tuf
 
-- PRs: 7
-- Issues: 8
+- PRs: 10
+- Issues: 11
 
 ### Pull Requests
 
 | Repository | PR Title | Status | Created At | Merged At | Link |
 |------------|----------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | feat(frontend): Artifacts page against GET /api/v1/artifacts | Open | 2026-08-19 | - | [PR #42](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/42) |
+| repository-service-tuf-webapp | feat(frontend): Root history page against GET /api/v1/roots | Open | 2026-08-19 | - | [PR #40](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/40) |
+| repository-service-tuf-webapp | refactor(frontend): move mock/real switch out of application code | Open | 2026-08-19 | - | [PR #38](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/38) |
 | repository-service-tuf-webapp | feat(frontend): Roles page -- populate detail panel from GET /api/v1/roles/{role} | Open | 2026-08-19 | - | [PR #36](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/36) |
 | repository-service-tuf-webapp | feat(frontend): Roles page -- two-column layout, signers format, tree collapse/select | Open | 2026-08-19 | - | [PR #34](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/34) |
 | repository-service-tuf-webapp | feat(frontend): Status page -- keys table columns match Key / Signs / Held spec | Open | 2026-08-19 | - | [PR #32](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/32) |
@@ -65,6 +68,9 @@ My open-source contributions to public organizations.
 
 | Repository | Issue Title | Status | Created At | Closed At | Link |
 |------------|-------------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | Artifacts page against GET /api/v1/artifacts | Open | 2026-08-19 | - | [Issue #41](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/41) |
+| repository-service-tuf-webapp | Root history page against GET /api/v1/roots | Open | 2026-08-19 | - | [Issue #39](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/39) |
+| repository-service-tuf-webapp | Move mock/real switch out of application code, into a dev-only Vite plugin | Open | 2026-08-19 | - | [Issue #37](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/37) |
 | repository-service-tuf-webapp | Roles page: populate detail panel from GET /api/v1/roles/{role} | Open | 2026-08-19 | - | [Issue #35](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/35) |
 | repository-service-tuf-webapp | Roles page: two-column layout, signers threshold format, delegation tree collapse/select | Open | 2026-08-19 | - | [Issue #33](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/33) |
 | repository-service-tuf-webapp | Status page: align keys table to Key / Signs / Held spec | Open | 2026-08-19 | - | [Issue #31](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/31) |
