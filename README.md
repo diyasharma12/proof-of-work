@@ -2,7 +2,7 @@
 
 My open-source contributions to public organizations.
 
-**Total PRs**: 29 | **Merged PRs**: 2 | **Total Issues**: 15 | **Closed Issues**: 5
+**Total PRs**: 30 | **Merged PRs**: 2 | **Total Issues**: 16 | **Closed Issues**: 5
 
 
 ## Organization: fossasia
@@ -46,13 +46,14 @@ My open-source contributions to public organizations.
 
 ## Organization: repository-service-tuf
 
-- PRs: 10
-- Issues: 11
+- PRs: 11
+- Issues: 12
 
 ### Pull Requests
 
 | Repository | PR Title | Status | Created At | Merged At | Link |
 |------------|----------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | feat(frontend): dark theme foundation -- tokens, shell, trust states | Open | 2026-08-20 | - | [PR #44](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/44) |
 | repository-service-tuf-webapp | feat(frontend): Artifacts page against GET /api/v1/artifacts | Open | 2026-08-19 | - | [PR #42](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/42) |
 | repository-service-tuf-webapp | feat(frontend): Root history page against GET /api/v1/roots | Open | 2026-08-19 | - | [PR #40](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/40) |
 | repository-service-tuf-webapp | refactor(frontend): move mock/real switch out of application code | Open | 2026-08-19 | - | [PR #38](https://github.com/repository-service-tuf/repository-service-tuf-webapp/pull/38) |
@@ -68,6 +69,7 @@ My open-source contributions to public organizations.
 
 | Repository | Issue Title | Status | Created At | Closed At | Link |
 |------------|-------------|--------|------------|-----------|------|
+| repository-service-tuf-webapp | Dark theme foundation: tokens, shell, trust states | Open | 2026-08-20 | - | [Issue #43](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/43) |
 | repository-service-tuf-webapp | Artifacts page against GET /api/v1/artifacts | Open | 2026-08-19 | - | [Issue #41](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/41) |
 | repository-service-tuf-webapp | Root history page against GET /api/v1/roots | Open | 2026-08-19 | - | [Issue #39](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/39) |
 | repository-service-tuf-webapp | Move mock/real switch out of application code, into a dev-only Vite plugin | Open | 2026-08-19 | - | [Issue #37](https://github.com/repository-service-tuf/repository-service-tuf-webapp/issues/37) |
